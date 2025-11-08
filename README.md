@@ -1,2 +1,1 @@
-# YT-complete-Pipeline-with-AWS
-A complete end-to-end MLOps pipeline for YouTube data using AWS services. Includes data ingestion, preprocessing, model training, deployment, and monitoring. Automates the ML lifecycle with CI/CD, S3, Lambda, SageMaker, and CloudWatch for scalable, reliable machine learning workflows.
+End-to-end MLOps pipeline with data versioning using AWS S3. Handles data ingestion, preprocessing, model training, and version control. Ensures reproducibility, scalability, and efficient experiment tracking through automated data storage and retrieval from S3.
